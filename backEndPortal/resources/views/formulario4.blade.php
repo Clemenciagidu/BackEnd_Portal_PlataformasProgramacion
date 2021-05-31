@@ -112,7 +112,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<div class="services-grids">
 					<div>
-                        <h2>Registro</h2> <br>
+                    <!--  <h2>Registro</h2> <br> -->
+
+                        <li class="col-md-4 col-sm-6 adress-w3pvt-info mb-4">
+                            <div class=" adress-icon">
+                                <span class="fa fa-pencil-square-o"></span>
+                            </div>
+                            <h6>Registro</h6>
+                            </li>
+
 						<script>
 								let boton;
 								let name,email,password, formulario;
@@ -203,17 +211,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </div>
                     
                     <div>
-                        <h2>Login</h2> <br>
+                        <!--  <h2>Registro</h2> <br> -->
+                        
+
+                        <li class="col-md-4 col-sm-6 adress-w3pvt-info mb-4">
+                            <div class=" adress-icon">
+                                <span class="fa fa-user"></span>
+                            </div>
+                            <h6>Login</h6>
+                            </li>
+
+
                             <form id="formularioL">
 
                             <div class=" form-group contact-forms">
-                                <label> Email </label>
-                                <input type="text" id="usuarioL" name="usuario"> <br>
+                                <input type="text" class="form-control" placeholder="Email" required="" id="usuarioL" name="usuario"> <br>
                             </div>
 
                             <div class=" form-group contact-forms">
-                                <label> Contraseña </label>
-                                <input type="password" id="passwordL" name="password"> <br>
+                                <input type="password" class="form-control" placeholder="Contraseña" required="" id="passwordL" name="password"> <br>
                             </div>
 
 
