@@ -45,3 +45,11 @@ Route::get('/portafolio', function () {
 Route::get('/contacto', function () {
     return view('contacto');
 });
+
+Route::get('/formulario', function () {
+    return view('formulario');
+});
+
+Route::get('/formulario2', function () {
+    return view('formulario2');
+});
