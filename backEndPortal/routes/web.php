@@ -53,3 +53,11 @@ Route::get('/formulario', function () {
 Route::get('/formulario2', function () {
     return view('formulario2');
 });
+
+Route::get('/formulario3', function () {
+    return view('formulario3');
+});
+
+Route::get('/formulario4', function () {
+    return view('formulario4');
+});
