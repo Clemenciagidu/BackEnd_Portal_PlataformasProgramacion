@@ -29,14 +29,19 @@ Route::get('/', function () {
 Route::get('/acercade', function () {
     return view('acercade');
 });
-/*Route::get('/acercade', function(){
-    return view('acercade');
-});*/
 
-/*Route::get('/contacto', function(){
+Route::get('/servicios', function () {
+    return view('servicios');
+});
+
+Route::get('/stats', function () {
+    return view('stats');
+});
+
+Route::get('/portafolio', function () {
+    return view('portafolio');
+});
+
+Route::get('/contacto', function () {
     return view('contacto');
-});*/
-
-/*Route::get('/seccion_1', function(){
-    return view('seccion_1');
-});*/
+});

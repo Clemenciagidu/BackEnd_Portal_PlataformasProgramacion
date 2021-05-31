@@ -21,9 +21,9 @@
 </head>
 <body>
 
-      <!-- Ir arriba -->
+     <!-- Ir arriba -->
     <div id="flecha" class="ocultar_flecha">
-        <a href="/acercade">
+        <a href="/servicios">
         <img src="images/FlechaIrArriba.png" alt="">
     </div>
     <!-- //Ir arriba -->
@@ -34,7 +34,7 @@
 		<div class="ml-auto text-right right-p">
 			<ul>
 				<li class="mr-3">
-					<span class="fa fa-phone"></span>+(57) 301 361 2345 </li>
+					<span class="fa fa-phone"></span>+(57) 301 361 2345</li>
 				
 			</ul>
 		</div>
@@ -50,7 +50,7 @@
 			<ul class="menu ml-auto mt-1">
 
 
-			<li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
+            <li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
 				<li class=""><a id="/acercade" href="javascript:void(0);">Acerca de</a></li>
 				<li class=""><a id="/servicios" href="javascript:void(0);">Servicios</a></li>
 				<li class=""><a id="/stats" href="javascript:void(0);">Cifras</a></li>
@@ -59,79 +59,71 @@
 
 
 			</ul>
+            
 		</nav>
 		<!-- //nav -->
 	</div>
 </header>
 <!-- //header -->
 
+  
+<!-- services -->
 
-
-
-
-<center>
-  <!-- banner-bottom -->
-    <section class="some-content py-5" id="about">
-        <div class="container py-md-5">
-            <div class="row about-vv-top mt-2">
-                <div class="col-lg-6 about-info">
-                    <h4 class="title-hny  mb-md-5"></h4>
-
-
-
-
-
-
-
-
-                    <div class="row service-grid-grids text-center">
-            <div class="service-grid service-grid1 mb-4">
+<section class="services py-5" id="/servicios">
+    <div class="container py-md-5">
+    <h3 class="heading text-center mb-3 mb-sm-5"><br><br>Nuestros recomendados</h3>
+        <div class="row service-grid-grids text-center">
+            <div class="col-lg-4 col-md-6 service-grid service-grid1 mb-4">
                 <div class="service-icon">
                     <span class="fa fa-h-square"></span>
                 </div>
-                <h4 class="mt-3">Clemencia Giraldo Duque</h4>
-                <p class="mt-3">Ingeniería de Sistemas e Informática <br> Universidad Pontificia Bolivariana</p>
+                <h4 class="mt-3">Mejores Hoteles</h4>
+                <p class="mt-3">En el siguiente link podrás encontrar los 10 mejores hoteles del mundo para los viajeros más aventureros </p><a href="https://www.nationalgeographic.es/viaje-y-aventuras/2017/05/los-10-mejores-hoteles-del-mundo-para-los-viajeros-mas-aventureros">Hoteles</a>
             </div>
-
-<div class="service-icon">
-                    <span class="fa fa-h-square"></span>
+            <div class="col-lg-4 col-md-6 service-grid service-grid2 mb-4">
+                <div class="service-icon">
+                    <span class="fa fa-glide-g"></span>
                 </div>
-                <h4 class="mt-3"><br><br></h4>
-                <p class="mt-3"><img src="images/upb.png" class="img-fluid" alt=""><br> </p>
+                <h4 class="mt-3">Guías de Turismo</h4>
+                <p class="mt-3">En el siguiente link te recomendamos 4 sitios webs para encontrar guías locales gratuitas en otros países</p>
+            </p><a href="https://padondenosvamos.com/guias-locales-otros-paises/">Guías</a>
             </div>
-
-
-        </div>
-
             
-
-
-
-
-
-
-
-
-       
-                    
-
+            <div class="col-lg-4 col-md-6 service-grid service-grid3 mb-4">
+                <div class="service-icon">
+                    <span class="fa fa-fighter-jet"></span>
                 </div>
-
-                <div class="read-more-button mt-4">
-                        <a href="/" class="read-more btn">Leer Más </a>
-                    </div>
-                <div class="col-lg-6 about-img mt-md-4 mt-sm-4">
-                    <img src="images/ab1.jpg" class="img-fluid" alt="">
-                </div>
-
+                <h4 class="mt-3">Boletos de Avión</h4>
+                <p class="mt-3">En el siguiente link podrás encontar un boleto de avión para darle la vuelta al mundo: guía completa de Skyscanner</p><a href="https://www.espanol.skyscanner.com/noticias/boleto-de-avion-para-darle-la-vuelta-al-mundo">Boletos</a></p>
             </div>
         </div>
-    </section>
-    <!-- //banner-bottom-->
-    </center>
-
-
-
+        <div class="row mt-5">
+            <div class="col-md-6 p-md-0 mb-4">
+                <div class="bg-image-left"> 
+                    <h4>Tours por Canadá</h4>
+                </div>
+            </div>
+            <div class="col-md-6 p-md-0 mb-4">
+                <div class="bg-image-right">
+                    <h4>Tours por Asia</h4>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 pr-md-0">
+                        <div class="bg-image-bottom1">
+                            <h4>Tours por Europa</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-6 pl-md-0">
+                        <div class="bg-image-bottom2">
+                            <h4>Tours por América</h4>
+                        </div>
+                    </div>
+                </div>  
+            </div>  
+        </div>      
+    </div>      
+</section>
+<!-- //services -->
 
 
 
@@ -143,13 +135,14 @@
 <div class="copy-right-top">
 	<p class="copy-right text-center py-4">&copy; Créditos: 2021 Viajando por el Mundo. All Rights Reserved | Realizado por Clemencia Giraldo Duque | Contacto: clemencia.giraldo@upb.edu.co | Universidad Pontificia Bolivariana | Plataformas de Programación Empresarial | Diseñado con 
         <a href="http://w3layouts.com/"> W3layouts </a>
-    <br><br></p>
+    </p>
 </div>
 <!-- //copyright -->	
-	<!--<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>-->
+	
 
 
 <a href="https://wa.me/573013611234?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+
 
 <script src="js/main.js"></script>	
 </body>

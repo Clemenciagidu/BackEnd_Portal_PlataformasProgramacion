@@ -64,10 +64,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<ul class="menu ml-auto mt-1">
 				<li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
 				<li class=""><a id="/acercade" href="javascript:void(0);">Acerca de</a></li>
-				<li class=""><a id="seccion_3" href="javascript:void(0);">Servicios</a></li>
-				<li class=""><a id="seccion_4" href="javascript:void(0);">Cifras</a></li>
-				<li class=""><a id="seccion_5" href="javascript:void(0);">Portafolio</a></li>
-				<li class=""><a id="seccion_6" href="javascript:void(0);">Contacto</a></li>
+				<li class=""><a id="/servicios" href="javascript:void(0);">Servicios</a></li>
+				<li class=""><a id="/stats" href="javascript:void(0);">Cifras</a></li>
+				<li class=""><a id="/portafolio" href="javascript:void(0);">Portafolio</a></li>
+				<li class=""><a id="/contacto" href="javascript:void(0);">Contacto</a></li>
 			</ul>
 		</nav>
 		<!-- //nav -->

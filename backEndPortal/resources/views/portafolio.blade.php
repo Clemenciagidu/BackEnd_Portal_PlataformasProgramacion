@@ -21,12 +21,14 @@
 </head>
 <body>
 
-      <!-- Ir arriba -->
+     <!-- Ir arriba -->
     <div id="flecha" class="ocultar_flecha">
-        <a href="/acercade">
+        <a href="/portafolio">
         <img src="images/FlechaIrArriba.png" alt="">
     </div>
     <!-- //Ir arriba -->
+
+
 
 	<!-- header -->
 <header>
@@ -34,7 +36,7 @@
 		<div class="ml-auto text-right right-p">
 			<ul>
 				<li class="mr-3">
-					<span class="fa fa-phone"></span>+(57) 301 361 2345 </li>
+					<span class="fa fa-phone"></span>+(57) 301 361 2345</li>
 				
 			</ul>
 		</div>
@@ -50,12 +52,15 @@
 			<ul class="menu ml-auto mt-1">
 
 
-			<li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
+
+            <li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
 				<li class=""><a id="/acercade" href="javascript:void(0);">Acerca de</a></li>
 				<li class=""><a id="/servicios" href="javascript:void(0);">Servicios</a></li>
 				<li class=""><a id="/stats" href="javascript:void(0);">Cifras</a></li>
 				<li class=""><a id="/portafolio" href="javascript:void(0);">Portafolio</a></li>
 				<li class=""><a id="/contacto" href="javascript:void(0);">Contacto</a></li>
+
+
 
 
 			</ul>
@@ -65,88 +70,58 @@
 </header>
 <!-- //header -->
 
+  
 
 
-
-
-<center>
-  <!-- banner-bottom -->
-    <section class="some-content py-5" id="about">
+ <!--/testimonials -->
+    <section class="testimonials py-5" id="/portafolio">
         <div class="container py-md-5">
-            <div class="row about-vv-top mt-2">
-                <div class="col-lg-6 about-info">
-                    <h4 class="title-hny  mb-md-5"></h4>
-
-
-
-
-
-
-
-
-                    <div class="row service-grid-grids text-center">
-            <div class="service-grid service-grid1 mb-4">
-                <div class="service-icon">
-                    <span class="fa fa-h-square"></span>
-                </div>
-                <h4 class="mt-3">Clemencia Giraldo Duque</h4>
-                <p class="mt-3">Ingeniería de Sistemas e Informática <br> Universidad Pontificia Bolivariana</p>
-            </div>
-
-<div class="service-icon">
-                    <span class="fa fa-h-square"></span>
-                </div>
-                <h4 class="mt-3"><br><br></h4>
-                <p class="mt-3"><img src="images/upb.png" class="img-fluid" alt=""><br> </p>
-            </div>
-
-
-        </div>
-
-            
-
-
-
-
-
-
-
-
-       
-                    
-
-                </div>
-
-                <div class="read-more-button mt-4">
-                        <a href="/" class="read-more btn">Leer Más </a>
+                <h3 class="heading heading1 text-center mb-3 mb-sm-5"> <br><br>Los mejores viajes según nuestros turistas</h3>
+            <div class="row">
+                <div class="col-lg-4 col-sm-6 test-info text-left mb-4">
+                    <p><span class="fa fa-quote-left"></span> DE TROYA A ÉFESO: VIAJE A LA TURQUÍA MÁS GRIEGA Alentados por el hambre, el comercio o la guerra, oleadas de griegos navegaron hasta las costas de Asia Menor hace tres mil años llevando su lengua, su arte y sus dioses consigo <span class="fa fa-quote-right"></span></p>
+                    <div class="test-img text-right mb-3">
+                        <img src="images/te1.jpg" class="img-fluid" alt="user-image">
                     </div>
-                <div class="col-lg-6 about-img mt-md-4 mt-sm-4">
-                    <img src="images/ab1.jpg" class="img-fluid" alt="">
-                </div>
+                    <h3 class="my-md-2 my-3 text-right">Pepe Verdú</h3>
 
+                   
+                </div>
+                <div class="col-lg-4 col-sm-6 test-info text-left mb-4">
+                    <p><span class="fa fa-quote-left"></span> AYUTTHAYA: LA CAPITAL PERDIDA DE TAILANDIA Ayutthaya, el reino más importante del Sudeste Asiático entre los siglos XIV y XVIII, se convirtió en el centro comercial marítimo entre Oriente y Occidente, atrayendo a comerciantes de Europa, Persia, India, Japón y China<span class="fa fa-quote-right"></span></p>
+
+                    <div class="test-img text-right mb-3">
+                        <img src="images/te2.jpg" class="img-fluid" alt="user-image">
+                    </div>
+                    <h3 class="my-md-2 my-3 text-right"> Marta Cuadras</h3>
+
+                   
+                </div>
+                <div class="col-lg-4 col-sm-6 test-info text-left gap1 mb-4">
+                    <p><span class="fa fa-quote-left"></span> SIETE DÍAS, SIETE CIUDADES POR OCCITANIA El sur de Francia es tierra de leyendas, paisajes variados y, también, urbes fascinantes que vertebran una ruta llena de estímulos variados<span class="fa fa-quote-right"></span></p>
+                    <div class="test-img text-right mb-3">
+                        <img src="images/te3.jpg" class="img-fluid" alt="user-image">
+                    </div>
+                    <h3 class="my-md-2 my-3 text-right">Asun Luján</h3>
+
+                </div>
             </div>
         </div>
     </section>
-    <!-- //banner-bottom-->
-    </center>
+    <!--//testimonials -->
 
 
 
 
 
-
-
-
-
- 
    <!-- copyright -->
 <div class="copy-right-top">
 	<p class="copy-right text-center py-4">&copy; Créditos: 2021 Viajando por el Mundo. All Rights Reserved | Realizado por Clemencia Giraldo Duque | Contacto: clemencia.giraldo@upb.edu.co | Universidad Pontificia Bolivariana | Plataformas de Programación Empresarial | Diseñado con 
         <a href="http://w3layouts.com/"> W3layouts </a>
-    <br><br></p>
+    </p>
 </div>
 <!-- //copyright -->	
-	<!--<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>-->
+	
 
 
 <a href="https://wa.me/573013611234?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>

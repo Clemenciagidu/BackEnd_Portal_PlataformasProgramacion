@@ -1,6 +1,6 @@
 var secciones = [];
 //var rutas = [" ",index","acercade","servicios","portafolio","contacto"];
-var rutas = ["/","/acercade","servicios","stats","portafolio","contacto"];
+var rutas = ["/","/acercade","/servicios","/stats","/portafolio","/contacto"];
 var bajo_logeo = ["seccion_2","seccion_5"];
 var usuario_logeado = true;
 //Get the button:
@@ -32,10 +32,10 @@ function hideURLbar(){
 function asignarVariables(){
 	secciones["/"] = document.getElementById("/");
 	secciones["/acercade"] = document.getElementById("/acercade");
-	secciones["seccion_3"] = document.getElementById("seccion_3");
-	secciones["seccion_4"] = document.getElementById("seccion_4");
-	secciones["seccion_5"] = document.getElementById("seccion_5");
-	secciones["seccion_6"] = document.getElementById("seccion_6");
+	secciones["/servicios"] = document.getElementById("/servicios");
+	secciones["/stats"] = document.getElementById("/stats");
+	secciones["/portafolio"] = document.getElementById("/portafolio");
+	secciones["/contacto"] = document.getElementById("/contacto");
 }
 
 function asignarEventos(){
