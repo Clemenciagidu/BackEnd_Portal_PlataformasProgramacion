@@ -17,6 +17,26 @@ use Illuminate\Support\Facades\Route;
     return view('welcome');
 });*/
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('ejemplo');
+});*/
+
+Route::get('/', function () {
+    return view('index');
 });
+
+
+Route::get('/acercade', function () {
+    return view('acercade');
+});
+/*Route::get('/acercade', function(){
+    return view('acercade');
+});*/
+
+/*Route::get('/contacto', function(){
+    return view('contacto');
+});*/
+
+/*Route::get('/seccion_1', function(){
+    return view('seccion_1');
+});*/
