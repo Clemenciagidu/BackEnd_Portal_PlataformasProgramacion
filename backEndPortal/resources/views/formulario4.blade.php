@@ -69,7 +69,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!-- //header -->
 
 
-
+   <!-- <img src="images/santorini-4996846_1280.jpg" class="img-fluid" alt="">-->
     <!-- Contact -->
         <section class="contact py-5" id="/contact">
             <div class="container py-md-5">
@@ -203,6 +203,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                                 <input type="password" class="form-control" placeholder="Contraseña" required="" id="passwordL" name="password"> <br>
                                             </div>
                                             <button class="btn btn-block sent-butnn" type="button" id="boton_logueo">Ingresar</button>
+                                            <img src="images/c1.jpg" class="img-fluid" alt="user-image">
                                         </form>
                                     </div>
 						        </div>
@@ -210,17 +211,26 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			            </div>
 		            <!--services--> 
                 </div>
+                
+
+
             </div>
+            <div class="col-lg-6 col-md-6 contact-right pl-lg-5">
+                         <!--<img src="images/c1.jpg" class="img-fluid" alt="user-image">
+                         <br><br><br>-->
+                         <img src="images/santorini-4996846_1280.jpg" class="img-fluid" alt="">
+                         <br><br><br>
+                         <img src="images/groningen-5372387_1280.jpg" class="img-fluid" alt="">
+                         <br><br><br>
+                         <img src="images/caravansary-4519435_1280.jpg" class="img-fluid" alt="">
+                         
+                        
+                    </div>
         </div>
     </div>
 </section>
 
-
-
-
-
-
-
+<!--<img src="images/santorini-4996846_1280.jpg" class="img-fluid" alt="">-->
 
 
 
