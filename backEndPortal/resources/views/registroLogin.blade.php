@@ -151,7 +151,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 												        }
 											        }).then((data)=>{
 												        alert("Ingreso Exitoso. Bienvenido a Viajando Por El Mundo");
-												        location.href="/";
+												        location.href="/servicioss";
 											        }).catch(function(error){
 												        alert("Error en los datos. Por favor verifique");
 											        });

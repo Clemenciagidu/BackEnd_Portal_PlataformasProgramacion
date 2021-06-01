@@ -38,7 +38,7 @@ Route::get('/acercade', function () {
 });
 
 Route::get('/servicios', function () {
-    return view('servicios');
+    return view('registroLogin');
 });
 
 Route::get('/stats', function () {
@@ -67,4 +67,8 @@ Route::get('/formulario3', function () {
 
 Route::get('/registroLogin', function () {
     return view('registroLogin');
+});
+
+Route::get('/servicioss', function () {
+    return view('servicioss');
 });
