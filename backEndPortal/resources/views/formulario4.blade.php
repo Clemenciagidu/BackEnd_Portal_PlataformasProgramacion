@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>FORMULARIOoooooooooooooooooooo</title>
+    <title>Portafolio</title>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <!-- css files -->
 	    <link href="css/bootstrap.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
@@ -39,7 +39,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		        <div class="ml-auto text-right right-p">
 			        <ul>
 				        <li class="mr-3">
-					    <span class="fa fa-phone"></span>+(57) 301 361 2345</li>
+					    <!--<span class="fa fa-phone"></span>+(57) 301 361 2345</li>-->
 				
 			        </ul>
 		        </div>
@@ -48,20 +48,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		        <!-- nav -->
 		            <nav class="py-3 d-lg-flex">
 			            <div id="logo">
-				            <h1> <a href="/"><span class="fa fa-plane"></span> Viajando por el Mundo </a></h1>
+				            <h1> <a href="/formulario4"><span class="fa fa-plane"></span> Viajando por el Mundo </a></h1>
 			            </div>
 			            <label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
 			            <input type="checkbox" id="drop" />
 			            <ul class="menu ml-auto mt-1">
 
-
+<!--
                             <li class="active"><a id="/" href="/">Inicio</a></li>
                             <li class=""><a id="/acercade" href="/acercade">Acerca de</a></li>
                             <li class=""><a id="/servicios" href="/servicios">Servicios</a></li>
                             <li class=""><a id="/stats" href="/stats">Cifras</a></li>
                             <li class=""><a id="/portafolio" href="/portafolio">Portafolio</a></li>
                             <li class=""><a id="/contacto" href="/contacto">Contacto</a></li>
-                        </ul>
+                        </ul> -->
 		            </nav>
 		        <!-- //nav -->
 	        </div>
@@ -151,7 +151,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 												        }
 											        }).then((data)=>{
 												        alert("Ingreso Exitoso. Bienvenido a Viajando Por El Mundo");
-												        location.href="/contact";
+												        location.href="/";
 											        }).catch(function(error){
 												        alert("Error en los datos. Por favor verifique");
 											        });

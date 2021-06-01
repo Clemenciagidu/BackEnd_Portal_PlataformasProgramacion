@@ -50,7 +50,7 @@
 			<ul class="menu ml-auto mt-1">
 
 
-			<li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
+				<li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
 				<li class=""><a id="/acercade" href="javascript:void(0);">Acerca de</a></li>
 				<li class=""><a id="/servicios" href="javascript:void(0);">Servicios</a></li>
 				<li class=""><a id="/stats" href="javascript:void(0);">Cifras</a></li>

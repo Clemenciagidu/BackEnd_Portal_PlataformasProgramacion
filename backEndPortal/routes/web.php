@@ -22,9 +22,16 @@ use Illuminate\Support\Facades\Route;
 });*/
 
 Route::get('/', function () {
-    return view('index');
+    return view('/index');
 });
 
+/*Route::get('/', function () {
+    return view('formulario4');
+});*/
+
+Route::get('/index', function () {
+    return view('index');
+});
 
 Route::get('/acercade', function () {
     return view('acercade');
