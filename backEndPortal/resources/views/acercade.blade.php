@@ -124,6 +124,14 @@
                     <img src="images/ab1.jpg" class="img-fluid" alt="">
                 </div>
 
+				<div class="col-lg-6 about-img mt-md-4 mt-sm-4">
+                    <img src="images/viajeImagen.jpg" class="img-fluid" alt="">
+                </div>
+
+				<div class="col-lg-6 about-img mt-md-4 mt-sm-4">
+                    <img src="images/viajeCollage.jpg" class="img-fluid" alt="">
+                </div>
+
             </div>
         </div>
     </section>
