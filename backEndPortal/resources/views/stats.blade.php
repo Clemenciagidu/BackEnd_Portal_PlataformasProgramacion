@@ -70,6 +70,8 @@
 
 
  <!-- stats -->
+
+ <br> <br> <br> <br>
     <section class="stats" id="/stats">
     <div class="layer py-md-5 py-5">
         <div class="container py-lg-5 py-md-3">
@@ -96,6 +98,28 @@
                             <h4>3,7%</h4>
                             <span class="fa fa-files-o mr-2"></span>
                         </div>
+
+
+                        <div class="col-sm-4 col-6 mb-4">
+                            <p><br>De la economía mundial, el turismo mueve</p>
+                            <h4>5%</h4>
+                            <span class="fa fa-files-o mr-2"></span>
+                        </div>
+                        <div class="col-sm-4 col-6 mb-4">
+                            <p><br> 
+                            Mandarín, español e inglés, idiomas que habla el 96% de poblacion mundial
+                            </p>
+                            <h4>96%</h4>
+                            <span class="fa fa-files-o mr-2"></span>
+                        </div>
+                        <div class="col-sm-4 col-6 mb-4">
+                            <p><br>En 2019, los 3 paíse más vistados en el mundo: Francia, España y EEUU</p>
+                            <h4>3</h4>
+                            <span class="fa fa-files-o mr-2"></span>
+                        </div>
+
+
+
                     </div>
                 </div>
             </div>
@@ -103,6 +127,8 @@
         </div>
     </section>
     <!-- //stats -->
+
+
 
 
 
