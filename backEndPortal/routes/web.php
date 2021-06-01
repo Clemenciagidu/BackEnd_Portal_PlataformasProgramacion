@@ -65,6 +65,6 @@ Route::get('/formulario3', function () {
     return view('formulario3');
 });
 
-Route::get('/formulario4', function () {
-    return view('formulario4');
+Route::get('/registroLogin', function () {
+    return view('registroLogin');
 });
