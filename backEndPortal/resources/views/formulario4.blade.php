@@ -8,15 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
 <title>FORMULARIOoooooooooooooooooooo</title>
-<link href="/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-<link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Zoo Planet Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<script src="/js/jquery-1.11.1.min.js"></script>
-<script src="/js/bootstrap.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
 
@@ -70,12 +62,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<ul class="menu ml-auto mt-1">
 
 
-            <li class="active"><a id="/" href="javascript:void(0);">Inicio</a></li>
-				<li class=""><a id="/acercade" href="javascript:void(0);">Acerca de</a></li>
-				<li class=""><a id="/servicios" href="javascript:void(0);">Servicios</a></li>
-				<li class=""><a id="/stats" href="javascript:void(0);">Cifras</a></li>
-				<li class=""><a id="/portafolio" href="javascript:void(0);">Portafolio</a></li>
-				<li class=""><a id="/contacto" href="javascript:void(0);">Contacto</a></li>
+            <li class="active"><a id="/" href="/">Inicio</a></li>
+				<li class=""><a id="/acercade" href="/acercade">Acerca de</a></li>
+				<li class=""><a id="/servicios" href="/servicios">Servicios</a></li>
+				<li class=""><a id="/stats" href="/stats">Cifras</a></li>
+				<li class=""><a id="/portafolio" href="/portafolio">Portafolio</a></li>
+				<li class=""><a id="/contacto" href="/contacto">Contacto</a></li>
 
 
 
@@ -96,7 +88,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- Contact -->
 <section class="contact py-5" id="/contact">
     <div class="container py-md-5">
-              <h3 class="heading text-center mb-3 mb-sm-5"> <br> <br> <br> Comunícate con nosotros</h3>
+              <h3 class="heading text-center mb-3 mb-sm-5"> <br> BIENVENIDO <br> Para continuar <br> Inicia Sesión o Regístrate</h3>
 
 
 
@@ -118,6 +110,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             <div class=" adress-icon">
                                 <span class="fa fa-pencil-square-o"></span>
                             </div>
+
+                            
                             <h6>Registro</h6>
                             </li>
 
